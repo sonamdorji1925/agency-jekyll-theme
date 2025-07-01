@@ -3,8 +3,7 @@ layout: style
 ---
 
 .intro-text > .intro-text {
-    font-size: 2.5rem;   /* Adjust as needed */
-    font-weight: 600;
+    font-size: 2rem;   /* Increase this value as needed */
     display: block;
     margin-bottom: 20px;
 }
