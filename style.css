@@ -1,3 +1,10 @@
 ---
 layout: style
 ---
+
+.intro-text > .intro-text {
+    font-size: 2.5rem;   /* Adjust as needed */
+    font-weight: 600;
+    display: block;
+    margin-bottom: 20px;
+}
